@@ -1,2 +1,2 @@
 # Space-Shooter
-# Space-Shooter
+The provided Python script is a simple two-player space shooter game implemented using the Pygame library. It sets up a game window, defines player-controlled spaceships, handles player movement and bullet firing, and manages game logic, including health and winning conditions. The game loop continuously updates the screen and checks for events like bullet hits and player inputs. When one player's health reaches zero, a winner is declared, and the game ends. This code is a foundation for creating a customizable and expandable space shooter game with room for further enhancements and features.
